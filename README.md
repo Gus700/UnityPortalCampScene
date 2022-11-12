@@ -1,6 +1,10 @@
 # Unity Portal Campsite Scene
 
-This Unity project is a further iteration on the campsite scene that I built for the CMPM 121 course found [here](https://github.com/Gus700/UnityAdventureCampScene). This one expands the scene mainly by adding a portal object, lighting and a day and night cycle.
+This Unity project is a further iteration on the campsite scene that I built for the CMPM 121 course found [here](https://github.com/Gus700/UnityAdventureCampScene). This one expands the scene mainly by adding a portal object, lighting, and a day/night cycle.
+
+#### [Video Submission](https://youtu.be/BXfJBLOnzM0)
+
+
 
 #### 4 Lights
 
